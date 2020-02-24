@@ -4,7 +4,7 @@ This is the repository for the subject of image mining. Here you will find the n
 
 ### Prerequisites
 
-The codes have been created using the Anaconda3 framework as a package manager. The following packages are necessary for the correct functioning of the codes:
+The codes have been created using the [Anaconda3](https://www.anaconda.com/distribution/) framework as a package manager. The following packages are necessary for the correct functioning of the codes:
 
 * python3
 ```sh
