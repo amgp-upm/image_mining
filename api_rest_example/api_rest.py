@@ -10,7 +10,7 @@ import io
 import os
 
 # if you have used sklearn for generating the model
-from sklearn.externals import joblib
+import joblib
 
 app = Flask(__name__) # Server
 api = Api(app) # api-rest
